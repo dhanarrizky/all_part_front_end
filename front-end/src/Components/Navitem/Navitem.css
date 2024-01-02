@@ -1,0 +1,21 @@
+.nav-item {
+    background-color: rgb(12, 12, 12);
+    margin: 4px;
+    border-radius: 10px;
+}
+
+.nav-item a {
+    display: flex;
+    padding: 20px 80px 20px 80px;
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-item a:hover {
+    color: black;
+    border-radius: 10px;
+    background-color: azure;
+}

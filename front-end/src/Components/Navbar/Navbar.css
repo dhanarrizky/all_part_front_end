@@ -1,0 +1,15 @@
+.nav {
+    background-color: black;
+    display: flex;
+    width: 278px;
+    height: 100vh;
+    padding: 5px;
+    /* display: flex; */
+    align-items: center;
+}
+
+.nav div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
