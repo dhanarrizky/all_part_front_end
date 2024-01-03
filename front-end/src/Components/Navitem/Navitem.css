@@ -7,7 +7,7 @@
 .nav-item a {
     display: flex;
     display: flex;
-    gap: 20px;
+    /* gap: 20px; */
     font-size: 20px;
     text-decoration: none;
     color: white;
@@ -21,9 +21,14 @@
     /* transition-duration: 0.3s; */
 }
 
+.title {
+    transition-duration: 1s;
+    padding-left: 20px;
+}
+
 a .hidden {
-    /* transition: 2s; */
-    display: none;
+    padding: 0px;
+    font-size: 0px;
     transition-duration: 1s;
 }
 
