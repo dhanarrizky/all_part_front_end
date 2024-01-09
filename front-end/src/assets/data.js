@@ -1,31 +1,45 @@
 const data = [
     {
         id:"1",
-        name:"dhanar"
+        title:"dhanar",
+        img:'./img.jpg',
+        description:"loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem"
     },
     {
         id:"2",
-        name:"rizky"
+        title:"rizky",
+        img:'./img.jpg',
+        description:"loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem"
     },
     {
         id:"3",
-        name:"rizky"
+        title:"rizky",
+        img:'./img.jpg',
+        description:"loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem"
     },
     {
         id:"4",
-        name:"krisna"
+        title:"krisna",
+        img:'./img.jpg',
+        description:"loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem"
     },
     {
         id:"5",
-        name:"krisna"
+        title:"krisna",
+        img:'./img.jpg',
+        description:"loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem"
     },
     {
         id:"6",
-        name:"krisna"
+        title:"krisna",
+        img:'./img.jpg',
+        description:"loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem"
     },
     {
         id:"7",
-        name:"dhanar"
+        title:"dhanar",
+        img:'./img.jpg',
+        description:"loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem"
     },
 ]
 
